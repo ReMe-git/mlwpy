@@ -1,0 +1,7 @@
+[project]
+name="mlwpy"
+dependencies = ["numpy", "matplotlib", "seaborn", "pandas", "IPython", "scikit-learn", "memory_profiler", "patsy"]
+authors = {name="ReMe-git", email="1242235737@qq.com"}
+description = "mlwpy book lib source"
+readme = "README.md"
+license = {file="LICENSE"}
